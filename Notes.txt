@@ -1,0 +1,19 @@
+QuizIt-AI
+    An Online Quiz PLatform , that generates quiz based on AI 
+    Remove old boring Quizzes and start with this AI based Quiz Platform 
+
+
+    Tech:
+        Planet Scale 
+        MySQL
+        Nextjs
+        Talwind CSS
+        ShadCN UI
+        NextAuth
+        Open AI 
+        React Query - For Server SIde synching
+        Prisma 
+        TypeScript
+
+
+
